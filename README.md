@@ -37,9 +37,9 @@ Quill Editor is a lightweight console-based text editor for Windows. It supports
 ## Installation and Usage
 
 1. Clone the repository:
-
 ```bash
 git clone https://github.com/T3chron/Quill.git
+```
 
 2. Installation
 ```bash
@@ -49,4 +49,4 @@ cd Quill | g++ main.cpp -o Quill.exe -std=c++17 -pthread
 3. Run
 ```bash
  ./Quill.exe
-
+```
